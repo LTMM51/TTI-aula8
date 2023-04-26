@@ -29,8 +29,8 @@ Desenvolvimento Agil
 
 #### Sistema de login
 - 10 story points
-- R I C E = 15
-- R = 50
+- R I C E = 30
+- R = 100
 - I = 3
 - C = 100%
 - E = 10
